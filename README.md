@@ -45,8 +45,7 @@ Este proyecto es la entrega final del curso de Desarrollo de Aplicaciones Móvil
 ## Instalación y Ejecución
 
 1.  **Clonar el repositorio**
-    git clone <url-del-repo>
-    cd proyecto-final
+    git clone 
 
 2.  **Instalar dependencias**
     npm install
